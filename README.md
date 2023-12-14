@@ -5,9 +5,9 @@
     
 ### Olá, Eu sou o Herbert! Um apaixonado estudante de Ciência da Computação e Desenvolvimento de Games.
 
-- 🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end
-- 🌱 Atualmente estou estudando Ciência da Computação e Spring Boot Fremework
-- ⚡ Meu hobby é desenvolver games  
+- 🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end.
+- 🌱 Atualmente estou estudando Ciência da Computação e Spring Boot Fremework.
+- ⚡ Apaixonado por Desenvolver Games e usar o entretenimento para aprimorar minhas habilidades como programador.
 - 👨‍💻 Mais sobre mim
   
 <!-- Links -->
