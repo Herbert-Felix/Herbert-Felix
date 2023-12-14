@@ -23,8 +23,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Felix&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
      
-
-<h3>🔥 Habilidades</h3>
+<div><h3>🔥 Habilidades</h3></div>
 
 ##
 
@@ -37,12 +36,15 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  <br>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
+    <img align="center" alt="Eclipse" height="30" width="40" src="https://api.iconify.design/devicon/eclipse.svg">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="unity" height="30" width="40" src="https://api.iconify.design/devicon/unity.svg">
   </div>
   
 
