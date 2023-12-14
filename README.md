@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Hello World 👋</h1></summary>
 </div>
     
-### Olá, Eu sou o Herbert! Um apaixonado estudante de Ciência da Computação e Desenvolvimento de Games.
+### Eu sou o Herbert! Um apaixonado estudante de Ciência da Computação e Desenvolvimento de Games.
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end.
 - 🌱 Atualmente estou estudando Ciência da Computação e Spring Boot Fremework.
