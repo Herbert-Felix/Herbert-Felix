@@ -8,23 +8,21 @@
     <li>🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end.</li>
     <li>🌱 Atualmente estou estudando Ciência da Computação e Spring Boot Fremework.</li>
     <li>🎮 Apaixonado por Desenvolver Games e usar o entretenimento para aprimorar minhas habilidades como programador.</li>
-    <li>👇 Mais sobre mim</li>
   </ul>
 </div>
+<br>
 
-<div id="links">
-  <a href="https://www.linkedin.com/in/herbertfelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/herbert.felix_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-<div id="githubStatus">
-  <a href="https://github.com/Herbert-Felix">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Herbert-Felix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Felix&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div id="gifanimado">
-  
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Cientista da Computação</b></td>
+      <td><b>🧪 Desenvolvedor de Games</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+    </tr>
+  </table>
 </div>
 
 <div id="skill">
@@ -43,3 +41,10 @@
   <img align="center" alt="Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="unity" height="30" width="40" src="https://api.iconify.design/devicon/unity.svg">
 </div>
+<br><br>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Herbert-Felix&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Herbert-Felix&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herbert-Felix&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herbert-Felix&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Herbert-Felix&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
