@@ -26,7 +26,7 @@
 </div>
 
 <div id="skill">
-  <h3>🔥Skills</h3>
+  <h2>🔥Skills</h2>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
 </div>
 
 <div id="Tools">
-  <h3>🛠️Tools & Framework</h3>
+  <h2>🛠️Tools & Framework</h2>
   <img align="center" alt="Eclipse" height="30" width="40" src="https://api.iconify.design/devicon/eclipse.svg">
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
