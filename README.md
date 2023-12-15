@@ -8,7 +8,7 @@
     <li>🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end.</li>
     <li>🌱 Atualmente estou estudando Ciência da Computação e Spring Boot Fremework.</li>
     <li>🎮 Apaixonado por Desenvolver Games e usar o entretenimento para aprimorar minhas habilidades como programador.</li>
-    <li>👨‍💻 Mais sobre mim</li>
+    <li>👇 Mais sobre mim</li>
   </ul>
 </div>
 
