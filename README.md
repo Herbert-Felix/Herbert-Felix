@@ -24,7 +24,7 @@
 </div>
 
 <div id="gifanimado">
-  <iframe src="https://giphy.com/embed/TluN63Wgq3ivIqpeqa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storyful-dance-dancing-stars-and-stripes-honor-flight-via-storyful-TluN63Wgq3ivIqpeqa">via GIPHY</a></p>
+  
 </div>
 
 <div id="skill">
