@@ -2,7 +2,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World 👋</h1></summary>
 </div>
-    
+ 
 ### Um apaixonado estudante de Ciência da Computação e Desenvolvimento de Games.
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego como programador Back-end.
@@ -22,6 +22,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Herbert-Felix&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Felix&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+
+
+
+
      
 <div><h3>🔥 Habilidades</h3></div>
 
