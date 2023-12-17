@@ -24,7 +24,7 @@
     </tr>
   </table>
 </div>
-
+<br>
 <div id="skill">
   <h2>🔥 Skills</h2>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
