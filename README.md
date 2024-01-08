@@ -19,7 +19,7 @@
       <td><b>🧪 Desenvolvedor de Games</b></td>
     </tr>
     <tr>
-      <td><img src="" width="300px" height="170px"></td>
+      <td><img src="https://github.com/Herbert-Felix/Herbert-Felix/assets/134386130/44f594a2-3b69-44e5-a4b7-3cfaa28fff06" width="300px" height="170px"></td>
       <td><img src="https://github.com/Herbert-Felix/Herbert-Felix/assets/134386130/23423d74-fb59-4186-90be-77a6bc280ccb" width="300px" height="170px"></td>
     </tr>
   </table>
